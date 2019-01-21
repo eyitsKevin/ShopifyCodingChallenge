@@ -15,7 +15,7 @@ Make sure all dependencies have been installed before moving on:
 
 ## Installation
 
-1. Clone the project: `$ git clone --recursive https://github.com/Zhen-Yee/SOEN343-Team15.git`
+1. Clone the project: `$ git clone --recursive https://github.com/eyitsKevin/ShopifyCodingChallenge.git`
 
 ## Setup
 
